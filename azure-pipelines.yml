@@ -11,13 +11,13 @@ variables:
   azureServiceConnectionId: '55566e59-fac6-4a27-a03d-0fa49a9c4f22'
 
   # Web app name
-  webAppName: 'first - flask demo'
+  webAppName: 'first - flask demo2'
 
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
 
   # Environment name
-  environmentName: 'myenv'
+  environmentName: 'myenv2'
 
   # Project root folder. Point to the folder containing manage.py file.
   projectRoot: $(System.DefaultWorkingDirectory)
